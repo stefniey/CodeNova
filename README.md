@@ -24,7 +24,7 @@ GPT-3 Landing Page is a static, single-page website showcasing the amazing capab
 ## Project Structure
 Here's an overview of the folder structure:
 ```
-gpt3-landing-page/
+gpt3/
 ├── src/
 │   ├── components/
 │   ├── assets/
@@ -40,8 +40,8 @@ gpt3-landing-page/
 
 - **Clone the repository**:
   ```bash
-  git clone https://github.com/stefniey/gpt3-landing-page.git
-  cd gpt3-landing-page
+  git clone https://github.com/stefniey/gpt3.git
+  cd gpt3
   ```
 
 - **Install dependencies**:
@@ -65,20 +65,6 @@ gpt3-landing-page/
 
 ### 3. Interactive Components
 - Components are modular and dynamic, built with React for optimal maintainability.
-
-## Screenshots
-
-- **Hero Section**:
-  ![Hero Section](public/images/hero.jpeg)
-
-- **About Section**:
-  ![About Section](public/images/about.jpeg)
-
-- **Features Section**:
-  ![Features Section](public/images/features.jpeg)
-
-- **Footer Section**:
-  ![Footer Section](public/images/footer.jpeg)
 
 ## Contributing
 - **Fork the repository**.
